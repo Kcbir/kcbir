@@ -2,11 +2,7 @@
   <img src="https://i.imgur.com/example-banner.png" alt="Abstractive Labs Vision Banner">
   </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello, I'm Kabir</h1></summary>
-  </ul>
-</div>
+<h1 align="center">Hello, I'm Kabir</h1>
 
 <p align="center">
 I'm an undergraduate researcher exploring the intersection of <strong>machine learning</strong>, <strong>economics</strong>, and <strong>information systems</strong>.
