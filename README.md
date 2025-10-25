@@ -18,7 +18,7 @@ At <a href="https://abstractive.me" target="_blank"><strong>Abstractive Labs</st
 
 - &nbsp; **Research Interests:** Reinforcement learning, NLP, continual learning, and dynamic knowledge graphs.
 - &nbsp; **Ask me about:** Python, PyTorch, system architecture, reasoning engines and quantitative modeling.
-- &nbsp; **Connect with me:** [LinkedIn](https://www.linkedin.com/in/murj) | [Twitter](https://twitter.com/kcbir) | [Website](https://abstractive.me)
+- &nbsp; **Connect with me:** [LinkedIn](https://www.linkedin.com/in/murj) | [Twitter](https://x.com/kcbir) | [Website](https://kabir.codes)
 
 ---
 
