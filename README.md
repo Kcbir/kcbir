@@ -1,40 +1,50 @@
-<h1 align="center">Hi there, I'm Kcbir 👋</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kcbir&fontSize=60&fontAlignY=35" />
+</p>
+
+<br/>
 
 <p align="center">
-  A curious learner and developer who loves building and experimenting with cool things 🚀
+Minimalist. Builder. Learning every day.
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 Currently building and learning every day
-- 🌱 Always exploring new technologies
-- 💡 Love solving problems through code
-- 🎯 Goal: Grow 1% better every day
+### 🧭 About Me
+- 🔹 Mostly working in private repos
+- 🔹 Focused on improving quietly, consistently
+- 🔹 Building projects that make me think
 
 ---
 
-### ⚒️ Tech & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat-square" />
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📈 Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kcbir&show_icons=true&count_private=true&theme=tokyonight" height=160 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kcbir&layout=compact&count_private=true&theme=tokyonight" height=160 />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kcbir&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"
+    height="160"
+  />
+</p>
+
+> _Note: Stats reflect private contributions (no public repos needed)._
+
+---
+
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kcbir/Kcbir/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🔗 Social / Links
-*(Add later if you want — portfolio, LinkedIn, etc.)*
+### 🛠️ Stack
+Just tools I actually use:
+Python
+Linux
+VS Code
+Git
 
 ---
 
-> ⭐ *Remember: your profile grows as you do — you can update this anytime!*
+<p align="center">Keep building. Keep it quiet. Let the work show itself.</p>
