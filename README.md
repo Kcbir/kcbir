@@ -51,3 +51,8 @@ Git
 ---
 
 <p align="center">Keep building. Keep it quiet. Let the work show itself.</p>
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kcbir/Kcbir/output/github-contribution-grid-snake.svg"/>
+</p>
