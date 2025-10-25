@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-I'm an undergraduate researcher exploring the intersection of <strong>machine learning, **economics**, and **information systems**. My research focuses on modeling how qualitative information interacts with market dynamics and how these relationships can be quantified through AI-driven models.
+I'm an undergraduate researcher exploring the intersection of <strong>machine learning, <strong>economics, and <strong>information systems. My research focuses on modeling how qualitative information interacts with market dynamics and how these relationships can be quantified through AI-driven models.
 <br><br>
 I currently lead research and development at **Abstractive Labs**, where we're building the intelligence layer of the modern world—systems that remember and reason in real time.<br><br>
 </p>
