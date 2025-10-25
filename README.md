@@ -20,11 +20,14 @@ Minimalist. Builder. Learning every day.
 
 ### 📈 Activity Overview
 
+### 📈 Activity Overview
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kcbir&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"
-    height="160"
-  />
+  <img src="https://streak-stats.demolab.com?user=Kcbir&theme=transparent&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kcbir&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
 > _Note: Stats reflect private contributions (no public repos needed)._
