@@ -1,24 +1,17 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kcbir&fontSize=60&fontAlignY=35" />
 </p>
 
-<br/>
-
-<p align="center">
-Minimalist. Builder. Learning every day.
-</p>
+<p align="center">Minimalist. Builder. Learning every day.</p>
 
 ---
 
 ### 🧭 About Me
-- 🔹 Mostly working in private repos
-- 🔹 Focused on improving quietly, consistently
-- 🔹 Building projects that make me think
+- Working on things that aren’t public — and that’s fine
+- Focused on improving quietly and consistently
+- Building projects that sharpen my thinking
 
 ---
-
-### 📈 Activity Overview
 
 ### 📈 Activity Overview
 
@@ -30,29 +23,14 @@ Minimalist. Builder. Learning every day.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kcbir&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
-> _Note: Stats reflect private contributions (no public repos needed)._
-
 ---
 
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kcbir/Kcbir/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🛠️ Stack
-Just tools I actually use:
-Python
-Linux
-VS Code
-Git
-
----
-
-<p align="center">Keep building. Keep it quiet. Let the work show itself.</p>
 ### 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kcbir/Kcbir/output/github-contribution-grid-snake.svg"/>
 </p>
+
+---
+
+<p align="center">Keep it low-key. Let the work speak when it needs to.</p>
