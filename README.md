@@ -1,50 +1,48 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:000000&height=200&text=kabir%20murjani&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=cognitive%20architectures%20%2F%20systems%20research&descAlignY=75&descSize=14&descColor=484f58" width="100%"/>
-
-<br/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=systems-level+design+of+language+models;reasoning+under+constraints;continual+learning+%C3%97+reinforcement+learning;lean+%2B+low-latency+%2B+resource-constrained" alt="Typing SVG" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center" width="80%" style="max-width:680px;margin:auto">
-I'm an undergraduate researcher working on cognitive architectures — combining continual learning and reinforcement learning to build lean, low-latency models for resource-constrained environments.
-<br/><br/>
-I lead <strong>Aniate Labs</strong>, building infrastructure for real-time memory and reasoning. Current work: a Rust-accelerated temporal memory middleware with sub‑50ms retrieval and <strong>Ant</strong>, a terminal-native intent execution layer for deterministic NL → OS command mapping.
-</p>
-
-<br/>
-
 <div align="center">
 
-```
-╭─────────────────────────────────────────╮
-│  research intern  ·  IIM Bangalore      │
-│  lead             ·  Aniate Labs        │
-╰─────────────────────────────────────────╯
-```
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Undergraduate+Researcher;Cognitive+Architectures;Systems-Level+LLM+Design;Low-Latency+Infrastructure" alt="Typing SVG" />
 
+  <br><br>
+  <a href="https://kabir.codes" target="_blank">kabir.codes</a>
 </div>
 
-<br/>
+---
+
+### 🧠 About
+
+I’m Kabir, an undergraduate researcher working on cognitive architectures. My work focuses on systems level design of language models for reasoning under constraints, combining continual learning and reinforcement learning to build lean, low latency models for resource constrained environments.
+
+I am Research Intern at IIM Bangalore and currently lead Aniate Labs, where we develop infrastructure for real time memory and reasoning. Current projects include a Rust accelerated temporal memory middleware with sub 50 ms retrieval and Ant, a terminal native intent execution layer for deterministic natural language to OS command mapping.
+
+---
+
+### ⚙️ Stack & Systems
 
 <div align="center">
-  <a href="https://kabir.codes">
-    <img src="https://img.shields.io/badge/kabir.codes-000000?style=for-the-badge&logo=safari&logoColor=58A6FF&labelColor=000000"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kabirmurjani@gmail.com">
-    <img src="https://img.shields.io/badge/mail-000000?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=000000"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/Ktbir">
-    <img src="https://img.shields.io/badge/@Ktbir-000000?style=for-the-badge&logo=x&logoColor=58A6FF&labelColor=000000"/>
-  </a>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:000000&height=80&section=footer&reversal=true" width="100%"/>
+### 📉 Telemetry & Commits
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" alt="Commit Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" width="48%" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Reasoning under constraints."</i>
+</div>
