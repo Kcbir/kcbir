@@ -3,10 +3,11 @@
 
 ---
 
-I’m Kabir, an undergraduate researcher working on cognitive architectures. My work focuses on systems level design of language models for reasoning under constraints, combining continual learning and reinforcement learning to build lean, low latency models for resource constrained environments.
+I architect neural nets and exact solvers.   
 
-I am Research Intern at IIM Bangalore and currently lead Aniate Labs, where we develop infrastructure for real time memory and reasoning. Current projects include a Rust accelerated temporal memory middleware with sub 50 ms retrieval and Ant, a terminal native intent execution layer for deterministic natural language to OS command mapping.
+Currently building exact Deep RL solvers for NP-hard combinatorial problems at IIMB. Previously lead at Aniate Labs, where I architected Ant; a terminal-native execution layer and stateless inference pipelines. I also engineered tensor state-space search and high-throughput pipelines at SNAIC (SIT NVIDIA AI Center).   
 
+I work on adversarial economies, combinatorial spaces, and sequential decision processes.
 <br>
 
 <picture>
