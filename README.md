@@ -5,7 +5,7 @@
 
 I architect neural nets and exact solvers.   
 
-Currently building exact Deep RL solvers for NP-hard combinatorial problems at IIMB. Previously lead at Aniate Labs, where I architected Ant; a terminal-native execution layer and stateless inference pipelines. I also engineered tensor state-space search and high-throughput pipelines at SNAIC (SIT NVIDIA AI Center).   
+Currently building exact Deep RL solvers for NP-hard combinatorial problems at IIMB. Previously lead at Aniate Labs, where I architected Ant; a terminal-native execution layer and stateless inference pipelines. I also engineered tensor state-space search and high-throughput pipelines at SNAIC (SIT NVIDIA AI Center) under Dr. Timothy Liu.   
 
 I work on adversarial economies, combinatorial spaces, and sequential decision processes.
 <br>
