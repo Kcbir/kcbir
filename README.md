@@ -1,13 +1,14 @@
 # Kabir Murjani
-[kabir.codes](https://kabir.codes) • [github.com/kcbir](https://github.com/kcbir)
+[kabir.codes](https://kabirmurjani.com) • [github.com/kcbir](https://github.com/kcbir)
 
 ---
 
-I’m a final year Electrical Engineering student at Nirma University. I architect neural nets and exact solvers.   
+I am a final year Electrical Engineering student at Nirma University. I architect big neural nets and exact solvers that run fast.
 
-Currently building exact Deep RL solvers for NP-hard combinatorial problems at IIMB under Prof. Abhay Sobhanan. Previously lead at Aniate Labs, where I architected Ant and Engram; a terminal-native execution layer and stateless inference pipelines. I also engineered tensor state-space search and high-throughput pipelines at SNAIC (SIT NVIDIA AI Center) under Dr. Timothy Liu.   
+I primarily work on reinforcement learning on combinatorial spaces and language models. I'm currently working on Deep RL solvers for NP-hard combinatorial problems at Indian Institute of Management Bangalore (IIMB) advised by Prof. Abhay Sobhanan, and previously engineered and optimized sequential architectures with SIT-NVIDIA AI Centre (SNAIC).
 
-I work on adversarial networks, combinatorial spaces, and sequential decision processes.
+Mostly I like to work on deep learning, numerics, and systems. Among other things, I play chess and tennis, and compose algorithmic music. If you're building in adjacent spaces, feel free to reach out.
+
 <br>
 
 <picture>
