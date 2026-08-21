@@ -1,10 +1,6 @@
-<div 
-
 # Kabir Murjani
 
 [kabirmurjani.com](https://kabirmurjani.com) · [github.com/kcbir](https://github.com/kcbir)
-
-</div>
 
 <br>
 
@@ -25,12 +21,8 @@ Mostly I like to work on deep learning, numerics, and systems. Among other thing
 <br>
 <br>
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-kcbir-181717?style=flat-square&logo=github)](https://github.com/kcbir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-murj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/murj)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Murjani-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Murjani)
 [![X](https://img.shields.io/badge/X-@Ktbir-000000?style=flat-square&logo=x)](https://x.com/Ktbir)
 [![Email](https://img.shields.io/badge/Email-kabirmurjani%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kabirmurjani@gmail.com)
-
-</div>
