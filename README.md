@@ -1,5 +1,5 @@
 # Kabir Murjani
-[kabir.codes](https://kabirmurjani.com) • [github.com/kcbir](https://github.com/kcbir)
+[kabirmurjani.com](https://kabirmurjani.com) • [github.com/kcbir](https://github.com/kcbir)
 
 ---
 
