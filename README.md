@@ -2,7 +2,7 @@
 
 # Kabir Murjani
 
-[kabirmurjani.com](https://kabirmurjani.com) · [kabir.codes](https://kabir.codes) · [github.com/kcbir](https://github.com/kcbir)
+[kabirmurjani.com](https://kabirmurjani.com) · [github.com/kcbir](https://github.com/kcbir)
 
 </div>
 
